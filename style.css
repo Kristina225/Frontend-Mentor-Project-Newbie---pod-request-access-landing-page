@@ -16,7 +16,7 @@
     --color-dark-gray: #2C344B;
     --color-gray: #5A668A;
     --color-light-gray: #C2CBE5;
-    --color-dark: rgb(18, 23, 37);
+    --color-dark: #121725;
     --color-light: #FFFFFF;
 }
 
@@ -91,6 +91,7 @@ body {
 }
 
 .content__email--input::placeholder {
+    font-family: inherit;
     font-size: 1.4rem;
     font-weight: 700;
     line-height: 2.8rem;
@@ -116,6 +117,7 @@ body {
 }
 
 .content__email--button {
+    font-family: inherit;
     font-size: 1.4rem;
     line-height: 2.8rem;
     font-weight: 700;
@@ -145,7 +147,7 @@ body {
 }
 
 .content__link {
-    filter: invert(38%) sepia(33%) saturate(468%) hue-rotate(187deg) brightness(95%) contrast(86%);
+    filter: invert(38%) sepia(39%) saturate(389%) hue-rotate(187deg) brightness(94%) contrast(88%);
 }
 
 .content__link--spotify {
