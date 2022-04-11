@@ -147,6 +147,7 @@ body {
 }
 
 .content__link {
+    filter: brightness(0) saturate(100);
     filter: invert(38%) sepia(39%) saturate(389%) hue-rotate(187deg) brightness(94%) contrast(88%);
 }
 
