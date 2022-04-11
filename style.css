@@ -171,7 +171,7 @@ body {
         padding-left: 3.9rem;
         background: url('assets/desktop/bg-pattern-dots.svg'), url('assets/tablet/image-host.jpg');
         background-color: var(--color-dark);
-        background-size: auto, auto;
+        background-size: auto, 49.1rem 76.7rem;
         background-repeat: no-repeat, no-repeat;
         background-position: bottom 0 left 3rem, top 0 right 0;
     }
