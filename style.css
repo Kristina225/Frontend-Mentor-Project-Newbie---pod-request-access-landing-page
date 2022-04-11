@@ -146,10 +146,9 @@ body {
     align-items: center;
 }
 
-.content__link {
-    filter: brightness(0) saturate(100);
+/* .content__link {
     filter: invert(38%) sepia(39%) saturate(389%) hue-rotate(187deg) brightness(94%) contrast(88%);
-}
+} */
 
 .content__link--spotify {
     margin-right: 4rem;
